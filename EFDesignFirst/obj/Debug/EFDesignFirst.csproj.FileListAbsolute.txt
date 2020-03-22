@@ -1,0 +1,11 @@
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\bin\Debug\EFDesignFirst.exe.config
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\bin\Debug\EFDesignFirst.exe
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\bin\Debug\EFDesignFirst.pdb
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\bin\Debug\EntityFramework.dll
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\bin\Debug\EntityFramework.xml
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\obj\Debug\EFDesignFirst.csprojAssemblyReference.cache
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\obj\Debug\EFDesignFirst.csproj.CopyComplete
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\obj\Debug\EFDesignFirst.exe
+C:\Users\Ciprian Craciun\source\repos\EFDesignFirst\EFDesignFirst\obj\Debug\EFDesignFirst.pdb
